@@ -7,28 +7,21 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-## General Information [Yet to add]
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## General Information 
+- Boombikes is a bike rental platform in America.
+- Business objective is to predict the demand for upcoming days so that business can accommodate changes accordingly.
+- Data set used is 2018-19 data of the business.
 
 
-## Conclusions [Yet to add]
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Conclusions 
+- Temperature have a huge positive impact on demand
+- Lightsnow would reduce the demand
+- mist would reduce the demand.
+- YoY demand is increasing according to the trend.
 
 
 ## Technologies Used
 - python 3
 
-## Acknowledgements [Yet to add]
-Give credit here.
-- This project was inspired by...
-- References if any...
-
-
 ## Contact
-Created by [@maniraj1234] - feel free to contact me!
+Created by [@maniraj1234] - feel free to contact me or mail: [@maniraj.madishetty@gmail.com]!
