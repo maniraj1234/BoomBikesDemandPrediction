@@ -12,6 +12,9 @@
 - Business objective is to predict the demand for upcoming days so that business can accommodate changes accordingly.
 - Data set used is 2018-19 data of the business.
 
+## Contents of this project:
+- BoomBikeLinearRegression py notebook contains analysis.
+- SubjectiveQuestions pdf file contains answers to the subjective questions.
 
 ## Conclusions 
 - Temperature have a huge positive impact on demand
